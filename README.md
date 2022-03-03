@@ -1,1 +1,1 @@
-# improved-eureka
+# paragon z warzywniaka
